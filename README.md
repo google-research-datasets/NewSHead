@@ -1,0 +1,2 @@
+# NewSHead
+The NewSHead dataset is a multi-doc headline dataset which contains 369,940 news stories and 932,571 unique URLs. Each news story contains three to five relevant articles, and curators from a crowd-sourcing platform are requested to provide a headline of up to 35 characters to describe the major information covered by the story. The dataset is collected from news stories published between May 2018 and May 2019, including the following topics: Politics, Sports, Science, Business, Health, Entertainment, and Technology.
