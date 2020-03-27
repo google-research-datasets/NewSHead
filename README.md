@@ -11,7 +11,24 @@ Example Headlines:
 * Drilling for oil in Pakistan
 * Review of 'Mr. Local'
 * MLB: Pirates vs Padres
+* Braves re-sign Jerry Blevins
 
+# Analysis
+We did broad topic analysis for the 932,571 articles in our dataset. A histogram is attached as below.
+<p align="center">
+<img src="/images/article_topic_distribution.png" width="450">
+</p>
+
+Among all the 369,940 stories, each headline is required to be between 10 and 35 characters.
+<p align="center">
+<img src="/images/story_headline_length.png" width="400">
+</p>
+
+Such lengths of curated story headlines are much shorter than traditional summaries, and even shorter than
+article titles in our dataset depicted below
+<p align="center">
+<img src="/images/article_title_length.png" width="400">
+</p>
 
 ## References
 
