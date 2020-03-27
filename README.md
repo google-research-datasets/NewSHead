@@ -15,6 +15,18 @@ Example Headlines:
 
 **[Download Link](https://github.com/google-research-datasets/NewSHead/releases/tag/v1.0)**
 
+# Citation
+If you use or discuss this dataset in your work, please cite our [paper](https://arxiv.org/abs/2001.09386):
+```
+@InProceedings{headline2020,
+  title = {{Generating Representative Headlines for News Stories}},
+  author = {Gu, Xiaotao and Mao, Yuning and Han, Jiawei and Liu, Jialu and Yu, Hongkun and Wu, You and Yu, Cong
+and Finnie, Daniel and Zhai, Jiaqi and Zukoski, Nicholas},
+  booktitle = {Proc. of the the Web Conf. 2020},
+  year = {2020}
+}
+```
+
 # Analysis
 We did broad topic analysis for the 932,571 articles in our dataset. A histogram is attached as below.
 <p align="center">
