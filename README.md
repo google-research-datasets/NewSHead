@@ -13,7 +13,7 @@ Example Headlines:
 * MLB: Pirates vs Padres
 * Braves re-sign Jerry Blevins
 
-359940
+**[Download Link](https://github.com/google-research-datasets/NewSHead/releases/tag/v1.0)**
 
 # Analysis
 We did broad topic analysis for the 932,571 articles in our dataset. A histogram is attached as below.
