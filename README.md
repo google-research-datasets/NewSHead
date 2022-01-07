@@ -1,5 +1,5 @@
 # NewSHead
-This repository contains the raw dataset used in NHNet [[1]](#1) for the task of **News S**tory **Head**line Generation. The code of data processing and training is available under [Tensorflow Models](https://github.com/tensorflow/models/tree/master/official/nlp/nhnet).
+This repository contains the raw dataset used in NHNet [[1]](#1) for the task of **News S**tory **Head**line Generation. The code of data processing and training is available under [Tensorflow Models - NHNet](https://github.com/tensorflow/models/tree/master/official/projects/nhnet).
 
 A news story is defined as a list of articles about the same event with a coherent topic. The released dataset contains 369,940 *English* stories with 932,571 unique URLs, among which we have 359,940 stories for training, 5,000 for validation, and 5,000 for testing, respectively. Each news story contains at least three (and up to five) articles.
 
@@ -14,6 +14,7 @@ Example Headlines:
 * Braves re-sign Jerry Blevins
 
 **[Download Link](https://github.com/google-research-datasets/NewSHead/releases/tag/v1.0)**
+**[Tools to Process](https://github.com/tensorflow/models/tree/master/official/projects/nhnet#dataset)**
 
 # Citation
 If you use or discuss this dataset in your work, please cite our [paper](https://arxiv.org/abs/2001.09386):
