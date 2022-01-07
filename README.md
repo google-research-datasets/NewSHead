@@ -14,6 +14,7 @@ Example Headlines:
 * Braves re-sign Jerry Blevins
 
 **[Download Link](https://github.com/google-research-datasets/NewSHead/releases/tag/v1.0)**
+
 **[Tools to Process](https://github.com/tensorflow/models/tree/master/official/projects/nhnet#dataset)**
 
 # Citation
